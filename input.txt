@@ -1,0 +1,7 @@
+int a;
+float b = 10.2;
+char c = 'z'
+char d = "dsad"
+int a = p*q
+$nama
+END
